@@ -41,7 +41,8 @@ A Python-based tool that automatically analyzes student course feedback using **
 
 ## 🔑 Configuration
 
-**Important:** Never share your API key publicly.
+**Important:** For a hassle free test, the dashboard will open even without the mistral api key, but it will be filled with test data that has been analyzed with mistral.
+**If you want to use your own data, you will need a mistral api key (follow the steps bellow) and the desired data you want to analyze should be added in `analyze.py` in `comments = [ ]` (you will find the test data there; simply replace it with your own)**
 
 1.  Open `analyze.py`.
 2.  Find the line `API_KEY = ...`.
