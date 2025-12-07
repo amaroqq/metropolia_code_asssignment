@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "text": "The lectures were fantastic and really kept my attention.",
+        "category": "Lecturer/Professor",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 2,
+        "text": "I felt completely lost during the second half of the semester.",
+        "category": "Other",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 3,
+        "text": "The workload was way too heavy for an introductory course. ",
+        "category": "Course Content",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 4,
+        "text": "It was okay, but I wish the slides were posted online sooner.",
+        "category": "Course Content",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 5,
+        "text": "The group project was a nightmare because my partners didn't do anything.",
+        "category": "Project",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 6,
+        "text": "Best professor I've had so far, very understanding and kind.",
+        "category": "Lecturer/Professor",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 7,
+        "text": "Please stop reading directly off the PowerPoint slides.",
+        "category": "Lecturer/Professor",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 8,
+        "text": "I really appreciated the detailed feedback on my essay.",
+        "category": "Other",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 9,
+        "text": "The textbook was incredibly expensive and we barely opened it.",
+        "category": "Course Content",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 10,
+        "text": "Solid class, I learned exactly what I expected to.",
+        "category": "Course Content",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 11,
+        "text": "The exam questions had nothing to do with what we covered in class.",
+        "category": "Grading & Exams",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 12,
+        "text": "I loved the guest speakers, they brought a cool perspective.",
+        "category": "Other",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 13,
+        "text": "The room is always freezing cold, which makes it hard to focus.",
+        "category": "Facilities",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 14,
+        "text": "Grading takes way too long, I didn't know my standing until the final week.",
+        "category": "Grading & Exams",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 15,
+        "text": "The content is fascinating, but the 8:00 AM slot is brutal.",
+        "category": "Schedule",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 16,
+        "text": "I think the prerequisites for this course need to be updated.",
+        "category": "Course Content",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 17,
+        "text": "The TAs were actually more helpful than the main lectures.",
+        "category": "Lecturer/Professor",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 18,
+        "text": "Easy A if you just show up and turn things in on time.",
+        "category": "Grading & Exams",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 19,
+        "text": "The syllabus was confusing and dates kept changing without notice.",
+        "category": "Schedule",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 20,
+        "text": "I would definitely take another class with this instructor.",
+        "category": "Lecturer/Professor",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 21,
+        "text": "The labs were fun, but the equipment is really outdated.",
+        "category": "Facilities",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 22,
+        "text": "I didn't feel like my grade reflected the effort I put in.",
+        "category": "Grading & Exams",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 23,
+        "text": "Great course, but there was too much required reading.",
+        "category": "Course Content",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 24,
+        "text": "The pacing was weird; we rushed through the most important topics at the end.",
+        "category": "Schedule",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 25,
+        "text": "I usually hate this subject, but this class made it bearable.",
+        "category": "Course Content",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 26,
+        "text": "The instructions for the final project were extremely vague.",
+        "category": "Project",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 27,
+        "text": "Nothing special, just a standard requirement filler.",
+        "category": "Other",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 28,
+        "text": "I really liked how the course connected theory to real-world events.",
+        "category": "Course Content",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 29,
+        "text": "Please offer more office hours, the current times conflict with other classes.",
+        "category": "Schedule",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 30,
+        "text": "I felt very supported throughout the entire term.",
+        "category": "Other",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 31,
+        "text": "The recorded lectures saved my life when I got sick, thank you for providing them.",
+        "category": "Course Content",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 32,
+        "text": "I still don't understand the grading criteria for the final paper.",
+        "category": "Grading & Exams",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 33,
+        "text": "This course changed my career path, I absolutely loved it.",
+        "category": "Course Content",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 34,
+        "text": "The classroom was too small for the number of students enrolled.",
+        "category": "Facilities",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 35,
+        "text": "Please provide more examples when explaining the math concepts.",
+        "category": "Course Content",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 36,
+        "text": "I felt like the professor was condescending when answering questions.",
+        "category": "Lecturer/Professor",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 37,
+        "text": "The textbook was actually really helpful and easy to read.",
+        "category": "Course Content",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 38,
+        "text": "Assignments were spaced out well so I never felt overwhelmed.",
+        "category": "Schedule",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 39,
+        "text": "I wish we had more opportunities for class discussion instead of just listening.",
+        "category": "Other",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 40,
+        "text": "The final exam was fair and covered exactly what was on the study guide.",
+        "category": "Grading & Exams",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 41,
+        "text": "It felt like two different courses mashed into one.",
+        "category": "Course Content",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 42,
+        "text": "I would not recommend this class to anyone who isn't a major.",
+        "category": "Other",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 43,
+        "text": "The instructor's enthusiasm made 8 AM lectures worth waking up for.",
+        "category": "Lecturer/Professor",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 44,
+        "text": "There was way too much homework for a 2-credit class.",
+        "category": "Homework",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 45,
+        "text": "I liked the material, but the disorganized Moodle page made it hard to find things.",
+        "category": "Course Content",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 46,
+        "text": "The peer review sessions were a waste of time because nobody took them seriously.",
+        "category": "Other",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 47,
+        "text": "Great refresher on the basics, but I was hoping for more advanced topics.",
+        "category": "Course Content",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 48,
+        "text": "The professor needs to learn how to use the microphone properly.",
+        "category": "Facilities",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 49,
+        "text": "I appreciated the flexibility with deadlines.",
+        "category": "Schedule",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 50,
+        "text": "The quizzes were tricky, but they forced me to actually do the reading.",
+        "category": "Grading & Exams",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 51,
+        "text": "I felt like a number in this class, not a student.",
+        "category": "Other",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 52,
+        "text": "The TA was harsh and graded totally differently than the professor.",
+        "category": "Grading & Exams",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 53,
+        "text": "Honestly, this was the easiest A I\u2019ve ever gotten.",
+        "category": "Grading & Exams",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 54,
+        "text": "The software we had to use was buggy and frustrated everyone.",
+        "category": "Other",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 55,
+        "text": "I loved the variety of media used in the lectures, like the videos and podcasts.",
+        "category": "Course Content",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 56,
+        "text": "The syllabus said one thing, but we did something completely different.",
+        "category": "Course Content",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 57,
+        "text": "Please post the slides before class so we can take notes on them.",
+        "category": "Course Content",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 58,
+        "text": "I really struggled with the pace of this course.",
+        "category": "Schedule",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 59,
+        "text": "The feedback on my assignments was generic and didn't help me improve.",
+        "category": "Homework",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 60,
+        "text": "This class gave me practical skills I can actually put on my resume.",
+        "category": "Course Content",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 61,
+        "text": "The professor cancelled class way too often.",
+        "category": "Schedule",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 62,
+        "text": "I wish the attendance policy wasn't so strict.",
+        "category": "Other",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 63,
+        "text": "The midterm was brutal, but the curve saved me.",
+        "category": "Grading & Exams",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 64,
+        "text": "I enjoyed the group work more than I thought I would.",
+        "category": "Other",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 65,
+        "text": "The lectures were repetitive and could have been summarized in an email.",
+        "category": "Course Content",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 66,
+        "text": "I didn't learn much new information, but it was a good review.",
+        "category": "Course Content",
+        "sentiment": "Neutral"
+    },
+    {
+        "id": 67,
+        "text": "The professor was very accessible and helpful during office hours.",
+        "category": "Lecturer/Professor",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 68,
+        "text": "I hate that we had to pay extra for the online homework platform.",
+        "category": "Homework",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 69,
+        "text": "The connection between the lectures and the lab work was seamless.",
+        "category": "Course Content",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 70,
+        "text": "I felt unprepared for the final based on the homework assignments.",
+        "category": "Grading & Exams",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 71,
+        "text": "This was a waste of tuition money.",
+        "category": "Other",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 72,
+        "text": "The guest lecturer in week 5 was the highlight of the semester.",
+        "category": "Lecturer/Professor",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 73,
+        "text": "I think the course description needs to be updated to match what we actually did.",
+        "category": "Course Content",
+        "sentiment": "Negative"
+    },
+    {
+        "id": 74,
+        "text": "Very organized and well-structured course.",
+        "category": "Course Content",
+        "sentiment": "Positive"
+    },
+    {
+        "id": 75,
+        "text": "I was intimidated at first, but the supportive environment helped me succeed.",
+        "category": "Other",
+        "sentiment": "Positive"
+    }
+]
