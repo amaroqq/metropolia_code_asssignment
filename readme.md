@@ -19,8 +19,8 @@ A Python-based tool that automatically analyzes student course feedback using **
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/amaroqq/metropolia_code_asssignment.git](https://github.com/amaroqq/metropolia_code_asssignment.git)
-    cd REPO_NAME
+    git clone https://github.com/amaroqq/metropolia_code_assignment.git
+    cd metropolia_code_assignment
     ```
 
 2.  **Create a Virtual Environment** (Recommended)
